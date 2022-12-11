@@ -14,10 +14,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 2,
@@ -33,10 +30,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 3,
@@ -52,10 +46,7 @@
       "akreditasi": "A",
       "latitude": -6.27531,
       "longitude": 106.797791,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 4,
@@ -71,10 +62,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 5,
@@ -90,10 +78,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 6,
@@ -109,10 +94,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 7,
@@ -128,10 +110,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 8,
@@ -147,10 +126,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 9,
@@ -166,10 +142,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 10,
@@ -185,10 +158,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 11,
@@ -204,10 +174,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 12,
@@ -223,10 +190,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 13,
@@ -242,10 +206,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 14,
@@ -261,10 +222,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 15,
@@ -280,10 +238,7 @@
       "akreditasi": "C",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 16,
@@ -299,10 +254,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 17,
@@ -318,10 +270,7 @@
       "akreditasi": "B",
       "latitude": -6.3032,
       "longitude": 106.7985,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 18,
@@ -337,10 +286,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 19,
@@ -356,10 +302,7 @@
       "akreditasi": "A",
       "latitude": -6.3369,
       "longitude": 106.832382,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 20,
@@ -375,10 +318,7 @@
       "akreditasi": "A",
       "latitude": -6.306298,
       "longitude": 106.778519,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 21,
@@ -394,10 +334,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 22,
@@ -413,10 +350,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 23,
@@ -432,10 +366,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 24,
@@ -451,10 +382,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 25,
@@ -470,10 +398,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 26,
@@ -489,10 +414,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 27,
@@ -508,10 +430,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 28,
@@ -527,10 +446,7 @@
       "akreditasi": "B",
       "latitude": -6.2169,
       "longitude": 106.819702,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 29,
@@ -546,10 +462,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 30,
@@ -565,10 +478,7 @@
       "akreditasi": null,
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 31,
@@ -584,10 +494,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 32,
@@ -603,10 +510,7 @@
       "akreditasi": null,
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 33,
@@ -622,10 +526,7 @@
       "akreditasi": "B",
       "latitude": -6.254056,
       "longitude": 106.891273,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 34,
@@ -641,10 +542,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 35,
@@ -660,10 +558,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 36,
@@ -679,10 +574,7 @@
       "akreditasi": "A",
       "latitude": -6.229505,
       "longitude": 106.9189,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 37,
@@ -698,10 +590,7 @@
       "akreditasi": "A",
       "latitude": -6.1887,
       "longitude": 106.779999,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 38,
@@ -717,10 +606,7 @@
       "akreditasi": "A",
       "latitude": -6.23572,
       "longitude": 106.793129,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 39,
@@ -736,10 +622,7 @@
       "akreditasi": "A",
       "latitude": -6.306138,
       "longitude": 106.778748,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 40,
@@ -755,10 +638,7 @@
       "akreditasi": "A",
       "latitude": -6.297213,
       "longitude": 106.77916,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 41,
@@ -774,10 +654,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 42,
@@ -793,10 +670,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 43,
@@ -812,10 +686,7 @@
       "akreditasi": "A",
       "latitude": -6.213452,
       "longitude": 106.741753,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 44,
@@ -831,10 +702,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 45,
@@ -850,10 +718,7 @@
       "akreditasi": null,
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 46,
@@ -869,10 +734,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 47,
@@ -888,10 +750,7 @@
       "akreditasi": "B",
       "latitude": -6.159474,
       "longitude": 106.805351,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 48,
@@ -907,10 +766,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 49,
@@ -926,10 +782,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 50,
@@ -945,10 +798,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 51,
@@ -964,10 +814,7 @@
       "akreditasi": "A",
       "latitude": -6.1545,
       "longitude": 106.839996,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 52,
@@ -983,10 +830,7 @@
       "akreditasi": null,
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 53,
@@ -1002,10 +846,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 54,
@@ -1021,10 +862,7 @@
       "akreditasi": null,
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 55,
@@ -1040,10 +878,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 56,
@@ -1059,10 +894,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": -6.2102,
       "longitude": 106.879501,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 57,
@@ -1078,10 +910,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 58,
@@ -1097,10 +926,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 59,
@@ -1116,10 +942,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 60,
@@ -1135,10 +958,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 61,
@@ -1154,10 +974,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 62,
@@ -1173,10 +990,7 @@
       "akreditasi": "A",
       "latitude": -6.1286,
       "longitude": 106.885498,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 63,
@@ -1192,10 +1006,7 @@
       "akreditasi": "A",
       "latitude": -6.13363,
       "longitude": 106.906868,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 64,
@@ -1211,10 +1022,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 65,
@@ -1230,10 +1038,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 66,
@@ -1249,10 +1054,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 67,
@@ -1268,10 +1070,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 68,
@@ -1287,10 +1086,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 69,
@@ -1306,10 +1102,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 70,
@@ -1325,10 +1118,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 71,
@@ -1344,10 +1134,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 72,
@@ -1363,10 +1150,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 73,
@@ -1382,10 +1166,7 @@
       "akreditasi": "A",
       "latitude": -6.1286,
       "longitude": 106.885498,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 74,
@@ -1401,10 +1182,7 @@
       "akreditasi": null,
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 75,
@@ -1420,10 +1198,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 76,
@@ -1439,10 +1214,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": -6.2993,
       "longitude": 106.837898,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 77,
@@ -1458,10 +1230,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 78,
@@ -1477,10 +1246,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 79,
@@ -1496,10 +1262,7 @@
       "akreditasi": "A",
       "latitude": -6.1715,
       "longitude": 106.838501,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 80,
@@ -1515,10 +1278,7 @@
       "akreditasi": "A",
       "latitude": -6.188939,
       "longitude": 106.844292,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 81,
@@ -1534,10 +1294,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 82,
@@ -1553,10 +1310,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 83,
@@ -1572,10 +1326,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 84,
@@ -1591,10 +1342,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 85,
@@ -1610,10 +1358,7 @@
       "akreditasi": "Tidak Terakreditasi",
       "latitude": -6.352569,
       "longitude": 106.824799,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 86,
@@ -1629,10 +1374,7 @@
       "akreditasi": "A",
       "latitude": -6.1887,
       "longitude": 106.779999,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 87,
@@ -1648,10 +1390,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 88,
@@ -1667,10 +1406,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 89,
@@ -1686,10 +1422,7 @@
       "akreditasi": null,
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     },
     {
       "id": 90,
@@ -1705,10 +1438,7 @@
       "akreditasi": null,
       "latitude": null,
       "longitude": null,
-      "id_kategori": [
-        1,
-        2
-      ]
+      "id_kategori": [1, 2]
     }
   ],
   "categories": [
@@ -2409,6 +2139,32 @@
         "twitter": "ranggaamyd",
         "instagram": "ranggaamyd"
       }
+    }
+  ],
+  "feedback": [
+    {
+      "id": 15,
+      "nama": "neymar",
+      "feedback": "kerjasama timnya sangat baik",
+      "tanggal": "2022/09/12"
+    },
+    {
+      "id": 31,
+      "nama": "aril",
+      "feedback": "lumayan bagus, namun fasilitas sekolah masih kurang memadai",
+      "tanggal": "2022/09/12"
+    },
+    {
+      "id": 51,
+      "nama": "yonatan",
+      "feedback": "lingkungannya membantu perkembangan siswa",
+      "tanggal": "2022/09/12"
+    },
+    {
+      "id": 76,
+      "nama": "samsudin",
+      "feedback": "kepasar beli semangka, selamat hari rabu",
+      "tanggal": "2022/09/12"
     }
   ]
 }
