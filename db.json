@@ -302,7 +302,7 @@
       "akreditasi": "A",
       "latitude": -6.3369,
       "longitude": 106.832382,
-      "id_kategori": [1, 2]
+      "id_kategori": [1, 3]
     },
     {
       "id": 20,
@@ -414,7 +414,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [1, 2]
+      "id_kategori": [1, 3]
     },
     {
       "id": 27,
@@ -494,7 +494,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [1, 2]
+      "id_kategori": [1, 3]
     },
     {
       "id": 32,
@@ -542,7 +542,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [1, 2]
+      "id_kategori": [1, 3]
     },
     {
       "id": 35,
@@ -622,7 +622,7 @@
       "akreditasi": "A",
       "latitude": -6.306138,
       "longitude": 106.778748,
-      "id_kategori": [1, 2]
+      "id_kategori": [1, 3]
     },
     {
       "id": 40,
@@ -654,7 +654,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [1, 2]
+      "id_kategori": [1, 3]
     },
     {
       "id": 42,
@@ -718,7 +718,7 @@
       "akreditasi": null,
       "latitude": null,
       "longitude": null,
-      "id_kategori": [1, 2]
+      "id_kategori": [1, 3]
     },
     {
       "id": 46,
@@ -1006,7 +1006,7 @@
       "akreditasi": "A",
       "latitude": -6.13363,
       "longitude": 106.906868,
-      "id_kategori": [1, 2]
+      "id_kategori": [1, 3]
     },
     {
       "id": 64,
@@ -1086,7 +1086,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [1, 2]
+      "id_kategori": [1, 3]
     },
     {
       "id": 69,
@@ -1150,7 +1150,7 @@
       "akreditasi": "B",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [1, 2]
+      "id_kategori": [1, 3]
     },
     {
       "id": 73,
@@ -1166,7 +1166,7 @@
       "akreditasi": "A",
       "latitude": -6.1286,
       "longitude": 106.885498,
-      "id_kategori": [1, 2]
+      "id_kategori": [1, 3]
     },
     {
       "id": 74,
@@ -1246,7 +1246,7 @@
       "akreditasi": "A",
       "latitude": null,
       "longitude": null,
-      "id_kategori": [1, 2]
+      "id_kategori": [1, 3]
     },
     {
       "id": 79,
@@ -1374,7 +1374,7 @@
       "akreditasi": "A",
       "latitude": -6.1887,
       "longitude": 106.779999,
-      "id_kategori": [1, 2]
+      "id_kategori": [1, 3]
     },
     {
       "id": 87,
@@ -1461,7 +1461,7 @@
       "deskripsi": "Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea sanctus eirmod elitr."
     },
     {
-      "id": 3,
+      "id": 4,
       "kategori": "Sekolah di Jakarta Barat",
       "gambar": "cat-3.jpg",
       "deskripsi": "Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea sanctus eirmod elitr."
